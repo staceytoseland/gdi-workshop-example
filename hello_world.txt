@@ -1,3 +1,5 @@
 Hello world.
 
 This is for awesome feature. 
+
+New line.
